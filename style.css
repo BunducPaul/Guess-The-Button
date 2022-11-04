@@ -1,0 +1,21 @@
+body {
+    background-color: #039fbe;
+}
+button {
+    background-color:#e7f3f2 ;
+    border-radius:10px;
+    border: 2px solid hsl(0, 0%, 0%);
+    height:40px;
+    width:80px;
+}
+      .button:hover {
+        background-color: #3385ff;
+        border-color: #3385ff;
+        fill: #06f;
+      }
+      
+      .button:active {
+        background-color: #3385ff;
+        border-color: #3385ff;
+        fill: #06f;
+      }
